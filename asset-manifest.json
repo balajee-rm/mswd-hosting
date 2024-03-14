@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mswd-hosting/static/css/main.a70bff9b.css",
+    "main.js": "/mswd-hosting/static/js/main.2e876ef2.js",
+    "static/js/787.d5fa4d18.chunk.js": "/mswd-hosting/static/js/787.d5fa4d18.chunk.js",
+    "static/media/logo.svg": "/mswd-hosting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mswd-hosting/index.html",
+    "main.a70bff9b.css.map": "/mswd-hosting/static/css/main.a70bff9b.css.map",
+    "main.2e876ef2.js.map": "/mswd-hosting/static/js/main.2e876ef2.js.map",
+    "787.d5fa4d18.chunk.js.map": "/mswd-hosting/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a70bff9b.css",
+    "static/js/main.2e876ef2.js"
+  ]
+}
